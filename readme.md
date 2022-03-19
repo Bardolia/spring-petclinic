@@ -1,5 +1,5 @@
 # Spring Master PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
-Deploy this sample application to Pivotal Web Services: some changes after first build now doing for 2nd build automating with pipeline
+Deploy this sample application to Pivotal Web Services: some changes after first build now doing for 2nd build automating with pipeline now adding approval
 
 <a href="https://push-to.cfapps.io?repo=https%3A%2F%2Fgithub.com%2Fspring-projects%2Fspring-petclinic.git">
     <img src="https://push-to.cfapps.io/ui/assets/images/Push-to-Pivotal-Light-with-Shadow.svg" width="180" alt="Push" align="center">
